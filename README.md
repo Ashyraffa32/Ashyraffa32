@@ -7,8 +7,6 @@ I usually code and built web as a hobby, I also built softwares, too.
 * 🖥️ Junior software developer
 * 📱 Current owner of FractionCalc and CoinTrack utility software
 
-I also loves, really loves [Titipo](https://en.wikipedia.org/wiki/Titipo_Titipo), and sometimes i wish i could meet Titipo at Choo-Choo Town.
-
 ## Projects you're most happy and proud of?
 Lots, but the special ones is [FractionCalc](https://ashyraffa32.github.io/FractionCalcSite) and CoinTrack, since i made and built it with help of my best friend :)
 
