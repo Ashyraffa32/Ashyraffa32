@@ -12,3 +12,5 @@ Lots, but the special ones is [FractionCalc](https://ashyraffa32.github.io/Fract
 
 ## Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashyraffa32&show_icons=true&theme=dark&title_color=ff0000)
+
+I'm also an Omori fan if you want to know
