@@ -10,8 +10,9 @@ I usually code and built web as a hobby, I also built softwares, too.
 ## Projects you're most happy and proud of?
 Lots, but the special ones is [FractionCalc](https://ashyraffa32.github.io/FractionCalcSite) and CoinTrack, since i made and built it with help of my best friend :)
 
-I'm also an Omori fan if you want to know
-My favorite character is Mari :)
+**I'm also an Omori fan if you want to know** 
+
+My favorite character is **Mari** :)
 
 ## Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashyraffa32&show_icons=true&theme=dark&title_color=ff0000)
