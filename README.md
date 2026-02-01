@@ -15,4 +15,4 @@ Lots, but the special ones is [FractionCalc](https://ashyraffa32.github.io/Fract
 My favorite character is **Aubrey** :)
 
 ## Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashyraffa32&show_icons=true&theme=dark&title_color=a020f0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashyraffa32&show_icons=true&theme=dark&title_color=ffc0cb)
