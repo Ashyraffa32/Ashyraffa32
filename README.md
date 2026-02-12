@@ -7,6 +7,11 @@ I usually code and built web as a hobby, I also built softwares, too.
 * 🖥️ Junior software developer
 * 📱 Current owner of FractionCalc and CoinTrack utility software
 
+<div align="left">
+<a href="https://github.com/Ashyraffa32"><img src="https://img.shields.io/github/followers/Ashyraffa32?label=follow&style=for-the-badge&logo=github"></a>
+<a href="https://www.tiktok.com/@raffa3527"><img src="https://img.shields.io/badge/TikTok-raffa3527-ff0050?style=for-the-badge&logo=tiktok"></a>
+</div>
+
 ## Projects you're most happy and proud of?
 Lots, but the special ones is [FractionCalc](https://ashyraffa32.github.io/FractionCalcSite) and CoinTrack, since i made and built it with help of my best friend :)
 
