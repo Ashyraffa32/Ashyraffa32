@@ -10,6 +10,7 @@ I usually code and built web as a hobby, I also built softwares, too.
 <div align="left">
 <a href="https://github.com/Ashyraffa32"><img src="https://img.shields.io/github/followers/Ashyraffa32?label=follow&style=for-the-badge&logo=github"></a>
 <a href="https://www.tiktok.com/@raffa3527"><img src="https://img.shields.io/badge/TikTok-raffa3527-ff0050?style=for-the-badge&logo=tiktok"></a>
+<a href="https://www.tiktok.com/@raffa3527"><img src="https://img.shields.io/badge/TikTok-Nicole-12e193?style=for-the-badge&logo=tiktok"></a>
 </div>
 
 ## Projects you're most happy and proud of?
