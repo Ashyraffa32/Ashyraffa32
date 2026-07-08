@@ -7,7 +7,7 @@ I usually code and built web as a hobby, I also built softwares, too.
 * 🖥️ Junior software developer
 
 <div align="left">
-<a href="https://www.tiktok.com/@ahab_14"><img src="https://img.shields.io/badge/TikTok-ahab_14-ff0050?style=for-the-badge&logo=tiktok"></a>
+<a href="https://www.tiktok.com/@ahab_14"><img src="https://img.shields.io/badge/TikTok-ahab-ff0050?style=for-the-badge&logo=tiktok"></a>
 </div>
 
 ## Projects you're most happy and proud of?
