@@ -10,12 +10,14 @@ I usually code and built web as a hobby, I also built softwares, too.
 <a href="https://www.tiktok.com/@ahab_14"><img src="https://img.shields.io/badge/TikTok-ahab-ff0050?style=for-the-badge&logo=tiktok"></a>
 </div>
 
-**I'm also an OneShot fan if you want to know**
+**I'm also an indie game fan (favorite is Omori and OneShot) if you want to know**
 
 *(i love indie games)*
 
 
 My favorite character is **Niko and Alula** :)
+
+Honorable Mention: **Aubrey** (from OMORI)
 
 ## Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashyraffa32&show_icons=true&theme=dark&title_color=ffc0cb)
